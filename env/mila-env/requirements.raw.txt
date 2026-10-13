@@ -1,0 +1,159 @@
+absl-py==2.3.1
+addict==2.4.0
+aiohappyeyeballs==2.6.1
+aiohttp==3.13.5
+aiosignal==1.4.0
+archspec @ file:///croot/archspec_1697725767277/work
+asttokens==3.0.2
+async-timeout==5.0.1
+attrs==26.1.0
+backcall==0.2.0
+black==25.11.0
+boltons @ file:///croot/boltons_1677628692245/work
+Brotli @ file:///tmp/abs_ecyw11_7ze/croots/recipe/brotli-split_1659616059936/work
+cachetools==6.2.6
+casadi==3.6.7
+certifi @ file:///croot/certifi_1700501669400/work/certifi
+cffi @ file:///croot/cffi_1700254295673/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.8
+cmake==3.25.0
+conda @ file:///croot/conda_1701719518285/work
+conda-content-trust @ file:///croot/conda-content-trust_1693490622020/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1702997573971/work/src
+conda-package-handling @ file:///croot/conda-package-handling_1690999929514/work
+conda_package_streaming @ file:///croot/conda-package-streaming_1690987966409/work
+cryptography @ file:///croot/cryptography_1702070282333/work
+cycler==0.12.1
+decorator==5.3.1
+descartes==1.1.0
+distro @ file:///croot/distro_1701455004953/work
+einops==0.8.1
+exceptiongroup==1.3.1
+executing==2.3.0
+filelock==3.19.1
+fire==0.7.1
+flake8==7.3.0
+fonttools==4.60.2
+frozenlist==1.8.0
+fsspec==2025.10.0
+future==1.0.0
+google-api-core==2.30.3
+google-auth==2.50.0
+google-cloud-bigquery==3.41.0
+google-cloud-core==2.5.1
+google-crc32c==1.8.0
+google-resumable-media==2.8.2
+googleapis-common-protos==1.75.0
+grpcio==1.80.0
+grpcio-status==1.80.0
+idna @ file:///croot/idna_1666125576474/work
+ImageIO==2.37.2
+importlib_metadata==8.7.1
+iniconfig==2.1.0
+ipython==8.12.3
+jedi==0.19.2
+Jinja2==3.1.6
+joblib==1.5.3
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+kiwisolver==1.4.7
+libmambapy @ file:///croot/mamba-split_1698782620632/work/libmambapy
+lit==15.0.7
+llvmlite==0.40.1
+lyft-dataset-sdk==0.0.8
+Markdown==3.9
+MarkupSafe==3.0.2
+matplotlib==3.5.3
+matplotlib-inline==0.2.2
+mccabe==0.7.0
+menuinst @ file:///croot/menuinst_1702390294373/work
+mmcls==0.25.0
+mmcv-full==1.6.1
+mmdet==2.26.0
+mmdet3d==1.0.0rc6
+mmsegmentation==0.29.1
+motmetrics==1.1.3
+mpmath==1.3.0
+multidict==6.7.1
+mypy_extensions==1.1.0
+narwhals==2.21.0
+networkx==2.5
+ninja==1.13.2
+numba==0.57.1
+numpy==1.23.5
+nuscenes-devkit==1.1.11
+opencv-python==4.8.0.76
+packaging==26.3
+pandas==1.5.3
+parso==0.8.7
+pathspec==1.1.1
+pexpect==4.9.0
+pickleshare==0.7.5
+pillow==11.3.0
+pip==23.3.2
+platformdirs @ file:///croot/platformdirs_1692205439124/work
+plotly==7.1.0
+pluggy==1.6.0
+plyfile==1.1.3
+prettytable==3.16.0
+prompt_toolkit==3.0.52
+propcache==0.4.1
+proto-plus==1.27.2
+protobuf==6.33.6
+ptyprocess==0.7.0
+pure_eval==0.2.4
+pyasn1==0.6.4
+pyasn1_modules==0.4.2
+pycocotools==2.0.11
+pycodestyle==2.14.0
+pycosat @ file:///croot/pycosat_1696536503704/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyflakes==3.4.0
+Pygments==2.21.0
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.3.3
+pyquaternion==0.9.9
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+pytest==8.4.2
+python-dateutil==2.9.0.post0
+pytokens==0.4.1
+pytorch-lightning==1.2.5
+pytz==2026.5
+PyWavelets==1.6.0
+PyYAML==6.0.3
+requests @ file:///croot/requests_1690400202158/work
+ruamel.yaml @ file:///croot/ruamel.yaml_1666304550667/work
+ruamel.yaml.clib @ file:///croot/ruamel.yaml.clib_1666302247304/work
+scikit-image==0.19.3
+scikit-learn==1.6.1
+scipy==1.13.1
+setuptools==59.5.0
+Shapely==1.8.5.post1
+six==1.17.0
+stack-data==0.6.3
+sympy==1.14.0
+tensorboard==2.21.0
+tensorboard-data-server==0.7.2
+termcolor==3.1.0
+terminaltables==3.1.10
+threadpoolctl==3.7.0
+tifffile==2024.8.30
+tomli==2.5.0
+torch==2.0.1+cu118
+torchaudio==2.0.2+cu118
+torchmetrics==0.6.2
+torchvision==0.15.2+cu118
+tqdm @ file:///croot/tqdm_1679561862951/work
+traitlets==5.15.1
+trimesh==3.9.35
+triton==2.0.0
+typing_extensions==4.16.0
+urllib3 @ file:///croot/urllib3_1698257533958/work
+wcwidth==0.9.2
+Werkzeug==3.1.9
+wheel==0.41.2
+yapf==0.40.1
+yarl==1.22.0
+zipp==3.23.1
+zstandard @ file:///croot/zstandard_1677013143055/work

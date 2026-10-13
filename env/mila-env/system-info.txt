@@ -1,0 +1,24 @@
+NAME="Ubuntu"
+VERSION="20.04.6 LTS (Focal Fossa)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 20.04.6 LTS"
+VERSION_ID="20.04"
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=focal
+UBUNTU_CODENAME=focal
+Python 3.9.18
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2022 NVIDIA Corporation
+Built on Wed_Sep_21_10:33:58_PDT_2022
+Cuda compilation tools, release 11.8, V11.8.89
+Build cuda_11.8.r11.8/compiler.31833905_0
+6.1G	/opt/conda
+471M	/opt/conda/pkgs
+conda 23.11.0 has requirement setuptools>=60.0.0, but you have setuptools 59.5.0.
+mmdet3d 1.0.0rc6 has requirement networkx<2.3,>=2.2, but you have networkx 2.5.
+mmdet3d 1.0.0rc6 has requirement numba==0.53.0, but you have numba 0.57.1.
+mmdet3d 1.0.0rc6 has requirement trimesh<2.35.40,>=2.35.39, but you have trimesh 3.9.35.
